@@ -1,0 +1,10 @@
+DarkDb:
+  factory: ncPdoDatabase
+  param:
+    dsn: mysql:host=127.0.0.1;port=3306;dbname=ZUNGLEE_LOCAL_DATABASE;
+    username: root
+    password: root
+    debug: true
+    reconnect: true
+    databases:
+      resbilling: ZUNGLEE_LOCAL_DATABASE

@@ -1,0 +1,8 @@
+dark_sushi:
+    resource: "@DarkSushiBundle/Resources/config/routing.yml"
+    prefix:   /ankitesh
+
+app:
+    resource: "@AppBundle/Controller/"
+    prefix:   /
+    type:     annotation

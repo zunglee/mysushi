@@ -1,0 +1,25 @@
+
+.picBox{
+	height: 30%;
+	width: 90%;
+	margin: 3%;
+    padding:2%;
+	border:1px solid black;
+    //background-color: black;
+}
+
+.picBoxImg{
+	height: 100%;
+	width: 100%;
+}
+
+
+.rightUpMidImg{
+  width: 100vw;
+  height: 100%;
+  /* 100/56.25 = 1.778 */
+  //background: pink;
+  max-height: 100vh;
+  max-width: 100vh;
+  padding-left: 20%;
+}

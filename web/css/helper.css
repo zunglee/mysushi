@@ -1,0 +1,47 @@
+.main{
+	width: 100%;
+	height: 100%;
+}
+
+.rightUpMid{
+    float:left;
+    margin:auto;
+	height: 79%;
+	width: 100%;
+	border:1px solid black;
+//    background-color: black;
+}
+
+.rightUp{
+	float:left;
+	height: 79%;
+	width: 100%;
+	border:1px solid black;
+  //  background-color: blue;
+}
+
+
+.rightDwn{
+	overflow: hidden;
+	height: 20%;
+	width: 100%;
+   // background-color: purple;
+}
+
+.left {
+	float:left;
+	width: 20%;
+	height: 100%;
+	border:1px solid red;
+    //background-color: green;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.right{
+	width: 79%;
+    float:left;
+    height: 100%;
+    border:1px solid black;
+    //background-color: yellow;
+}

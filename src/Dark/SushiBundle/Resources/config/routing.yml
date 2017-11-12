@@ -1,0 +1,3 @@
+dark_sushi_controller:
+    resource:   "@DarkSushiBundle/Controller/"
+    type:       annotation
